@@ -1,0 +1,8 @@
+Name: FirstTweak
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A tweak that won't trigger PAC on springboard (tested on iOS 15)
+Maintainer: Ficello
+Author: Ficello
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
