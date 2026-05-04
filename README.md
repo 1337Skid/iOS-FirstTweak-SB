@@ -1,5 +1,5 @@
 # iOS-FirstTweak-SB
-My first springboard tweak for iOS 15 in Logos/Objective-C "bypassing" PAC
+My first springboard tweak for iOS 15 in Logos/Objective-C "bypassing" PAC on arm64e devices
 
 # Interesting if
 - you want to see how to pass strings without triggering PAC
